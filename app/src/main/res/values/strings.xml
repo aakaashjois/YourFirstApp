@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Your First App</string>
+    <string name="biryani_studio">Biryani Studio</string>
+    <string name="logo">Logo</string>
+    <string name="contact_biryanistudio_gmail_com">Contact: biryanistudio@gmail.com</string>
+    <string name="description_we_make_android_apps">Description: We make Android apps!</string>
+    <string name="time_we_work_24x7x365">Time: We work 24x7x365!</string>
+</resources>
